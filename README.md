@@ -4,6 +4,8 @@ A work-in-progress smart mirror display built with Python and PySide6. It shows 
 
 > **Status:** WIP. The layout is tuned for a single screen and many values are still hard-coded.
 
+![Smart mirror screenshot](docs/screenshot.png)
+
 ## Features
 
 - Digital clock (hours, minutes, seconds), each with its own font and color
@@ -94,7 +96,4 @@ The pocket watch images (`watch.png`, `Watch_Hours.png`, `Watch_Minutes.png`) ca
 - [ ] Responsive layout for other resolutions
 - [ ] Refactor labels into class attributes and use a single update timer
 - [ ] Additional widgets (weather, calendar, etc.)
-
-
-## Screenshot
 
