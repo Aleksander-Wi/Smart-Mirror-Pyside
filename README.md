@@ -6,6 +6,7 @@ A work-in-progress smart mirror display built with Python and PySide6. It shows 
 
 <p>
   <img src="screenshots/Example.png" alt="Smart mirror, daytime" width="300">
+  &nbsp;&nbsp;&nbsp;
   <img src="screenshots/Example2.png" alt="Smart mirror, night" width="300">
 </p>
 
