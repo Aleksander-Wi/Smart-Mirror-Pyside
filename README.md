@@ -4,7 +4,7 @@ A work-in-progress smart mirror display built with Python and PySide6. It shows 
 
 > **Status:** WIP. The layout is tuned for a single screen and many values are still hard-coded.
 
-![Smart mirror screenshot](docs/screenshot.png)
+![Smart mirror screenshot](screenshots/example.png)
 
 ## Features
 
